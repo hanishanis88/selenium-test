@@ -101,3 +101,4 @@
 /Users/hnmahadi/Code/vscode_selenium/csharp/selenium_tests/obj/Debug/net8.0/selenium_tests.pdb
 /Users/hnmahadi/Code/vscode_selenium/csharp/selenium_tests/obj/Debug/net8.0/selenium_tests.genruntimeconfig.cache
 /Users/hnmahadi/Code/vscode_selenium/csharp/selenium_tests/obj/Debug/net8.0/ref/selenium_tests.dll
+/Users/hnmahadi/Code/vscode_selenium/csharp/selenium_tests/obj/Debug/net8.0/selenium_tests.sourcelink.json
