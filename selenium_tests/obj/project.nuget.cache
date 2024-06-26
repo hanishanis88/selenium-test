@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ymhy36DnM+c=",
+  "success": true,
+  "projectFilePath": "/Users/hnmahadi/Code/vscode_selenium/csharp/selenium_tests/selenium_tests.csproj",
+  "expectedPackageFiles": [
+    "/Users/hnmahadi/.nuget/packages/microsoft.codecoverage/17.10.0/microsoft.codecoverage.17.10.0.nupkg.sha512",
+    "/Users/hnmahadi/.nuget/packages/microsoft.net.test.sdk/17.10.0/microsoft.net.test.sdk.17.10.0.nupkg.sha512",
+    "/Users/hnmahadi/.nuget/packages/microsoft.testplatform.objectmodel/17.10.0/microsoft.testplatform.objectmodel.17.10.0.nupkg.sha512",
+    "/Users/hnmahadi/.nuget/packages/microsoft.testplatform.testhost/17.10.0/microsoft.testplatform.testhost.17.10.0.nupkg.sha512",
+    "/Users/hnmahadi/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/hnmahadi/.nuget/packages/nunit/4.1.0/nunit.4.1.0.nupkg.sha512",
+    "/Users/hnmahadi/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
+    "/Users/hnmahadi/.nuget/packages/selenium.support/4.22.0/selenium.support.4.22.0.nupkg.sha512",
+    "/Users/hnmahadi/.nuget/packages/selenium.webdriver/4.22.0/selenium.webdriver.4.22.0.nupkg.sha512",
+    "/Users/hnmahadi/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
